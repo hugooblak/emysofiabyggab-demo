@@ -18,7 +18,6 @@ return array(
 		array( 'emysofia bygg är jättebra dom har bra kvalitet, bra material,jobbar jättebra och fint,dom är jätte duktiga med allt och har bra priser', 'Daniel Villalobos', 'för ett år sedan' ),
 		array( 'Tack för utmärkt arbete hos mig. Badrummet blev så perfekt och fint så som jag hade planerat. Jag rekommenderar varmt denna firma.', 'Kay Fagre', 'för ett år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-5.jpg',
 	'ar_riktig'      => true,
 );
