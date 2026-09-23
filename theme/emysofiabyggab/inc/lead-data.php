@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'EmySofiaByggAB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '072-350 77 34',
 	'telefon_tel'    => '+46723507734',
 	'ort'            => 'Upplands Väsby',
